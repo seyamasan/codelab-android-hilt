@@ -24,7 +24,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 /**
- * Data manager class that handles data manipulation between the database and the UI.
+ * Data manager class that handles data manipulation between the database and the UI.草
  */
 @Singleton
 class LoggerLocalDataSource @Inject constructor(private val logDao: LogDao) {
